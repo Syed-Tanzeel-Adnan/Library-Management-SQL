@@ -8,7 +8,7 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![Library_project](https://www.princeton.edu/sites/default/files/styles/half_2x/public/images/2017/12/20170509_Eng_Library_DJA_012_3.jpg?itok=P8rKug-h)
+![Library_project](library.png)
 
 ## Objectives
 
